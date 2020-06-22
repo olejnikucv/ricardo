@@ -20,4 +20,4 @@ print(A)
 // Haciendo prueba de escritura de código
 ```
 
-[![Build Status](http://www.google.com)]
+[button url="http://www.google.com"]
