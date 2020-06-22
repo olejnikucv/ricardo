@@ -9,6 +9,15 @@ Hola bienvenido a mi página en GitHub
   import numpy as np
   A=np.array([1,2,3,4])
 </code>
----
+
+- - - 
 Probando
----
+
+```sh
+$ cd dillinger
+$ npm install -d
+$ node app
+```
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
