@@ -4,6 +4,7 @@ Hola bienvenido a mi página en GitHub
 ** ** Letras estilo **bold**
 - * * Letras estilo italico *italico*
 <img src="https://i.upmath.me/svg/%20y%3D2x%2B1%20" alt=" y=2x+1 " />
+
 <code> 
   Probando una linea de código
   import numpy as np
@@ -29,4 +30,6 @@ The overriding design goal for Markdown's
 
 [![Generic badge](https://img.shields.io/badge/Ricardo-Link-green.svg)](https://shields.io/)
 
-[![Hola estoy probando las etiquetas](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
