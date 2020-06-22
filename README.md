@@ -1,7 +1,7 @@
 # Ricardo Olejnik
 Hola bienvenido a mi página en GitHub
 
-[![Generic badge](https://img.shields.io/badge/<Guía de Límites >-<Creado por: Ricardo Olejnik 2016>-<blue>.svg)](https://github.com/olejnikucv/ricardo/blob/master/limites_Ricardo.pdf)
+[[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)(https://github.com/olejnikucv/ricardo/blob/master/limites_Ricardo.pdf)
 
 ## Estilos para Markdown (.md)
 - Letras estilo **bold**
