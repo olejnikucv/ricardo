@@ -31,5 +31,3 @@ The overriding design goal for Markdown's
 [![Generic badge](https://img.shields.io/badge/Ricardo-Link-green.svg)](https://shields.io/)
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
