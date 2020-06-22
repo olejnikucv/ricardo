@@ -13,10 +13,11 @@ Hola bienvenido a mi página en GitHub
 - - - 
 Probando
 
-```sh
-$ cd dillinger
-$ npm install -d
-$ node app
+```
+import numpy as np
+A=np.array([1,2,3,4])
+print(A)
+// Haciendo prueba de escritura de código
 ```
 
 [![Prueba](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
