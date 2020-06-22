@@ -20,4 +20,6 @@ print(A)
 // Haciendo prueba de escritura de código
 ```
 
-[button url="http://www.google.com"]
+Lorem ipsum dolor sit amet.
+
+<button name="button" onclick="http://www.google.com">Click me</button>
