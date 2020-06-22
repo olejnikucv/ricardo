@@ -28,4 +28,4 @@ The overriding design goal for Markdown's
 > looking like it's been marked up with tags
 > or formatting instructions.
 
-![](https://img.shields.io/badge/Ricardo-Hola-success)
+![Nombre para la etiqueta](https://img.shields.io/badge/Ricardo-Hola-success)(http://www.google.com)
