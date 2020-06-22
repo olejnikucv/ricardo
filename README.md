@@ -20,12 +20,12 @@ print(A)
 // Haciendo prueba de escritura de código
 ```
 
-<button name="button">Click me</button>
+The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
+> as possible. The idea is that a
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
 
-<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download FILE</a>
-
-<pre>
-Haciendo otra prueba
-</pre>
-
-[enlace en línea](http://www.limni.net)
+`${package.json.version}`
