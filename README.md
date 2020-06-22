@@ -13,11 +13,10 @@ Hola bienvenido a mi página en GitHub
 - - - 
 Probando
 
-```
+```python
 import numpy as np
 A=np.array([1,2,3,4])
 print(A)
-// Haciendo prueba de escritura de código
 ```
 
 The overriding design goal for Markdown's
@@ -28,6 +27,4 @@ The overriding design goal for Markdown's
 > looking like it's been marked up with tags
 > or formatting instructions.
 
-![](https://img.shields.io/badge/Ricardo-Hola-success)
-
-https://img.shields.io/endpoint?url=<www.google.com>&style<red>
+![Ingresar](https://img.shields.io/badge/Ricardo-Hola-success)(http://www.google.com)
