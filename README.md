@@ -20,6 +20,4 @@ print(A)
 // Haciendo prueba de escritura de código
 ```
 
-[![Prueba](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-[![Haciendo una prueba](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[! Haciendo una prueba ]
