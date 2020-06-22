@@ -27,6 +27,4 @@ The overriding design goal for Markdown's
 > looking like it's been marked up with tags
 > or formatting instructions.
 
-![](https://img.shields.io/badge/Ricardo-Hola-success)
-
-![](https://img.shields.io/endpoint?url=www.google.com)
+![](https://img.shields.io/static/v1?label=Ricardo&message=Prueba&color=blue&URL=<https://www.google.com> "Prueba")
