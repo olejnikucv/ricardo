@@ -19,5 +19,6 @@ $ npm install -d
 $ node app
 ```
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Prueba](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+[![Haciendo una prueba](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
