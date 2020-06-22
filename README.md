@@ -29,4 +29,4 @@ The overriding design goal for Markdown's
 
 ![](https://img.shields.io/badge/Ricardo-Hola-success)
 
-https://img.shields.io/appveyor/build/Ricardo/www.gmail.com?label=Hola&logo=Esto%20es%20una%20prueba&logoColor=green&style=for-the-badge
+![](https://img.shields.io/endpoint?url=www.google.com)
