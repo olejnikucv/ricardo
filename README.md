@@ -28,4 +28,4 @@ The overriding design goal for Markdown's
 > looking like it's been marked up with tags
 > or formatting instructions.
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<Mensajito>&color=<success>
+?style=for-the-badge&logo=appveyor
