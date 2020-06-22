@@ -20,6 +20,10 @@ print(A)
 // Haciendo prueba de escritura de código
 ```
 
-Lorem ipsum dolor sit amet.
-
 <button name="button">Click me</button>
+
+<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download FILE</a>
+
+--------------------------------------
+Hola | prueba 1 | prueba 2 | prueba 3|
+--------------------------------------
