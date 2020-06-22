@@ -28,3 +28,5 @@ The overriding design goal for Markdown's
 > or formatting instructions.
 
 ![Ingresar](https://img.shields.io/badge/Ricardo-Hola-success)(http://www.google.com)
+
+https://img.shields.io/amo/dw/Ricardo?style=for-the-badge
