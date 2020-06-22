@@ -29,4 +29,4 @@ The overriding design goal for Markdown's
 
 ![Ingresar](https://img.shields.io/badge/Ricardo-Hola-success)(http://www.google.com)
 
-https://img.shields.io/amo/dw/Ricardo?style=for-the-badge
+![] (https://img.shields.io/appveyor/build/Ricardo/www.gmail.com?style=for-the-badge)
