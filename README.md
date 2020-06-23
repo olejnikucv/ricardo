@@ -3,6 +3,8 @@ Hola bienvenido a mi página en GitHub
 
 [![Generic badge](https://img.shields.io/badge/Guia:Límites_Ricardo_Olejnik-Disponible-green.svg)](https://github.com/olejnikucv/ricardo/blob/master/limites_Ricardo.pdf)
 
+Próximamente mas guías.
+
 # Estilos para Markdown (.md)
 - Letras estilo **bold** se colocan entre simbolos ** **
 - Letras estilo italico *italico* se colocan entre simbolo * *
