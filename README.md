@@ -3,13 +3,16 @@ Hola bienvenido a mi página en GitHub
 
 [![Generic badge](https://img.shields.io/badge/Guia:Límites_Ricardo_Olejnik-Disponible-green.svg)](https://github.com/olejnikucv/ricardo/blob/master/limites_Ricardo.pdf)
 
-## Estilos para Markdown (.md)
+# Estilos para Markdown (.md)
 - Letras estilo **bold** se colocan entre simbolos ** **
 - Letras estilo italico *italico* se colocan entre simbolo * *
-- Ecuaciones en formato Latex
+- Ecuaciones en formato Latex (Se puede utilizar upmath https://upmath.me/ y hacer la conversión a formato MD)
+Ejemplo:
 <img src="https://i.upmath.me/svg/%20y%3D2x%2B1%20" alt=" y=2x+1 " />
 
+
 ### Código
+Mostrar o resaltar un código se puede realizar utilizando el comando ```  ````
 <code> 
   Probando una linea de código
   import numpy as np
