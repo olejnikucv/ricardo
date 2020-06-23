@@ -12,7 +12,7 @@ Ejemplo:
 
 
 ### Código
-Mostrar o resaltar un código se puede realizar utilizando el comando *```  ```* o bien *<code> </code>*
+Mostrar o resaltar un código se puede realizar utilizando el comando entre \ ```   ```` \
 
 <code> 
   Probando una linea de código
