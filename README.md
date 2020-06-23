@@ -12,7 +12,7 @@ Ejemplo:
 
 
 ### Código o comando
-Mostrar o resaltar un código o comando se puede realizar utilizando el comando entre \ ```Comando``` 
+Mostrar o resaltar un código o comando se puede realizar utilizando el comando entre \```Comando``` o bien \<code> Comando </code>
 
 <code> 
   Probando una linea de código
