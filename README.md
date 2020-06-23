@@ -11,8 +11,8 @@ Ejemplo:
 <img src="https://i.upmath.me/svg/%20y%3D2x%2B1%20" alt=" y=2x+1 " />
 
 
-### Código
-Mostrar o resaltar un código se puede realizar utilizando el comando entre \ ```   ```` \
+### Código o comando
+Mostrar o resaltar un código o comando se puede realizar utilizando el comando entre \ ```Comando``` 
 
 <code> 
   Probando una linea de código
