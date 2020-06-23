@@ -12,7 +12,8 @@ Ejemplo:
 
 
 ### Código
-Mostrar o resaltar un código se puede realizar utilizando el comando ```  ````
+Mostrar o resaltar un código se puede realizar utilizando el comando *```  ```* o bien *<code> </code>*
+
 <code> 
   Probando una linea de código
   import numpy as np
