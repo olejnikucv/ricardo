@@ -8,9 +8,9 @@ Hola bienvenido a mi página en GitHub
 - Letras estilo italico *italico* se colocan entre simbolo * *
 - Ecuaciones en formato Latex (Se puede utilizar upmath https://upmath.me/ y hacer la conversión a formato MD)
 <br>
-Ejemplo:
+*Ejemplo:*
 <br>
-                    <img src="https://i.upmath.me/svg/%20y%3D2x%2B1%20" alt=" y=2x+1 " />
+<img src="https://i.upmath.me/svg/%20y%3D2x%2B1%20" alt=" y=2x+1 " />
 
 
 ### Código o comando
@@ -24,7 +24,8 @@ Mostrar o resaltar un código o comando se puede realizar utilizando el comando 
 </code>
 
 - - - 
-### Código en Python
+### Código en Python u otro lenguaje soportado 
+Se puede utilizar el comando \```python o \```otrolenguaje
 
 ```python
 import numpy as np
