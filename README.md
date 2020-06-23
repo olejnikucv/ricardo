@@ -4,8 +4,8 @@ Hola bienvenido a mi página en GitHub
 [![Generic badge](https://img.shields.io/badge/Guia:Límites_Ricardo_Olejnik-Disponible-green.svg)](https://github.com/olejnikucv/ricardo/blob/master/limites_Ricardo.pdf)
 
 ## Estilos para Markdown (.md)
-- Letras estilo **bold**
-- Letras estilo italico *italico*
+- Letras estilo **bold** se colocan entre simbolos ** **
+- Letras estilo italico *italico* se colocan entre simbolo * *
 - Ecuaciones en formato Latex
 <img src="https://i.upmath.me/svg/%20y%3D2x%2B1%20" alt=" y=2x+1 " />
 
