@@ -5,7 +5,7 @@
 
 <br>
 Ejemplo:
-
+<br>
 <br>
 <img src="https://i.upmath.me/svg/%20y%3D2x%2B1%20" alt=" y=2x+1 " />
 
