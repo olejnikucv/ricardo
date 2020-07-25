@@ -39,7 +39,3 @@ The overriding design goal for Markdown's
 > publishable as-is, as plain text, without
 > looking like it's been marked up with tags
 > or formatting instructions.
-
-<div class="alert alert-success">
-  <strong>Success!</strong> Indicates a successful or positive action.
-</div>
