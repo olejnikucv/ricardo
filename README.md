@@ -11,6 +11,8 @@ Hola bienvenido a mi página en GitHub
 
 [![Generic badge](https://img.shields.io/badge/Estilos-Markdown-blue)](https://github.com/olejnikucv/ricardo/blob/master/Estilos%20para%20Markdown.md)
 
+?style=for-the-badge&logo=appveyor
+
 
 
 
