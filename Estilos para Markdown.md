@@ -2,7 +2,7 @@
 - Letras estilo **bold** se colocan entre simbolos ** **
 - Letras estilo italico *italico* se colocan entre simbolo * *
 - Ecuaciones en formato Latex (Se puede utilizar upmath https://upmath.me/ y hacer la conversión a formato MD)
-
+- - -
 <br>
 Ejemplo:
 <br>
@@ -29,7 +29,7 @@ import numpy as np
 A=np.array([1,2,3,4])
 print(A)
 ```
-
+- - -
 ### Citas textuales
 
 The overriding design goal for Markdown's
@@ -40,6 +40,7 @@ The overriding design goal for Markdown's
 > looking like it's been marked up with tags
 > or formatting instructions.
 
+- - - 
 ```markdown
 # Tabla de contenidos
 1. [Example](#example)
