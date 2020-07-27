@@ -4,9 +4,7 @@
 
 Hallar las raíces de la siguiente función en el intervalo [4,20]
 
-<script src="https://i.upmath.me/latex.js"></script>
-<p>y=x-tan(x)</p>
-
+### <p align="center"><img align="center" src="https://i.upmath.me/svg/%20y%3Dx-tan(x)%20" alt=" y=x-tan(x) " /></p>
 
 ![imagen.png](https://raw.githubusercontent.com/olejnikucv/ricardo/master/Biseccion%20Scilab/GraficoBiseccion.png)
 
