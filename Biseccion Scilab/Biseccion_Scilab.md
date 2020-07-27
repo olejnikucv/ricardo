@@ -4,7 +4,9 @@
 
 Hallar las raíces de la siguiente función en el intervalo [4,20]
 
-#### $$ y=x-tan(x) $$
+#### <script src="https://i.upmath.me/latex.js"></script>
+<p>y=x-tan(x)</p>
+
 
 ![imagen.png](https://raw.githubusercontent.com/olejnikucv/ricardo/master/Biseccion%20Scilab/GraficoBiseccion.png)
 
@@ -13,7 +15,7 @@ Hallar las raíces de la siguiente función en el intervalo [4,20]
 </div>
 
 
-```python
+```
 clear, clc
 // ---------------- Método de Bisección utilizando Scilab ---------------------
 // ----------  Creación de la función -----------------------------------------
@@ -57,7 +59,7 @@ biseccion(f,14,14.1,tol)
 biseccion(f,17.1,17.25,tol)
 //plot(M,f(M),'Or')
 ```
-
+<br>
 <div class="alert alert-info">
   <strong> Raíces de la función en el intervalo seleccionado</strong>
 </div>
