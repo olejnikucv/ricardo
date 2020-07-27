@@ -32,11 +32,12 @@ Calcule la concentración de A despues de 10 segundos.
 
 **El valor de la raíz es:**
 
-   **R=1.51D-03**
+**R=1.51D-03**
 
 **Comparando con la solución obtenida de solver**
 
-``` R=fsolver(0.001,f) ```
+```scilab
+R=fsolver(0.001,f) ```
 
 **R=1.51D-03**
 
