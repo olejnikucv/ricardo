@@ -40,7 +40,7 @@ The overriding design goal for Markdown's
 > looking like it's been marked up with tags
 > or formatting instructions.
 
-<code>
+```markdown
 # Tabla de contenidos
 1. [Example](#example)
 2. [Example2](#example2)
@@ -52,4 +52,4 @@ The overriding design goal for Markdown's
 ## Example2
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
-</code>
+```
