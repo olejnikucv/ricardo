@@ -10,7 +10,7 @@ Calcule la concentración de A despues de 10 segundos.
 
 ### **Newton Raphson Method**
 
-```
+```python
     function y=f(x)
         y=10-((1/38.176)*((1./x)-279.4+log(0.898.*x/(0.0014+0.5.*x))))
     endfunction
