@@ -1,12 +1,13 @@
 # Estilos para Markdown (archivos .md)
 #### Hola
+
 ```markdown
 # Titulo 1
 ## Titulo 2
 ### Titulo 3
-#### Titulo 4
-- Guion al comienzo viñeta
+- Guion al comienzo marcará viñeta
 ```
+
 - Letras estilo **bold** se colocan entre simbolos ** **
 - Letras estilo italico *italico* se colocan entre simbolo * *
 - Ecuaciones en formato Latex (Se puede utilizar upmath https://upmath.me/ y hacer la conversión a formato MD)
