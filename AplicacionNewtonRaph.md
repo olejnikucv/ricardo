@@ -10,8 +10,6 @@ Calcule la concentración de A despues de 10 segundos.
 
 ### **Newton Raphson Method**
 
-
-```
 ```
     function y=f(x)
         y=10-((1/38.176)*((1./x)-279.4+log(0.898.*x/(0.0014+0.5.*x))))
@@ -31,7 +29,6 @@ Calcule la concentración de A despues de 10 segundos.
     der=(f(x0+tol)-f(x0))/tol
     end
 ```
-```
 
 **El valor de la raíz es:**
 
@@ -43,7 +40,3 @@ R=fsolver(0.001,f)
 
 **R=1.51D-03**
 
-
-```
-
-```
