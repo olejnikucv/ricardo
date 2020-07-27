@@ -33,13 +33,14 @@ print(A)
 ### Citas textuales
 
 The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
+<code> > formatting syntax is to make it as readable </code>
 > as possible. The idea is that a
 > Markdown-formatted document should be
 > publishable as-is, as plain text, without
 > looking like it's been marked up with tags
 > or formatting instructions.
 
+<code>
 # Tabla de contenidos
 1. [Example](#example)
 2. [Example2](#example2)
@@ -51,3 +52,4 @@ The overriding design goal for Markdown's
 ## Example2
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
+</code>
