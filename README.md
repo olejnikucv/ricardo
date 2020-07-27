@@ -12,7 +12,7 @@ Hola bienvenido a mi página en GitHub
 [![Generic badge](https://img.shields.io/badge/Estilos-Markdown-blue)](https://github.com/olejnikucv/ricardo/blob/master/Estilos%20para%20Markdown.md)
 
 
-![Custom badge](https://img.shields.io/endpoint?label=Prueba&logo=Esto%20es%20otra%20prueba&logoColor=yellow&style=for-the-badge&url)(https://github.com/olejnikucv/ricardo/blob/master/Biseccion%20Scilab/Biseccion_Scilab.md)
+[![Custom badge](https://img.shields.io/endpoint?label=Prueba&logo=Esto%20es%20otra%20prueba&logoColor=yellow&style=for-the-badge&url)](https://github.com/olejnikucv/ricardo/blob/master/Biseccion%20Scilab/Biseccion_Scilab.md)
 
 
 
