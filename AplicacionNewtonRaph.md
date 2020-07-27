@@ -37,7 +37,8 @@ Calcule la concentración de A despues de 10 segundos.
 **Comparando con la solución obtenida de solver**
 
 ```scilab
-R=fsolver(0.001,f) ```
+R=fsolver(0.001,f)
+```
 
 **R=1.51D-03**
 
