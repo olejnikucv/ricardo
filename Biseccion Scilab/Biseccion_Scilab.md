@@ -11,7 +11,7 @@ Hallar las raíces de la siguiente función en el intervalo [4,20]
 <div class="alert alert-success">
   <strong> Código Método de Bisección utilizando Scilab</strong>
 </div>
-
+<br>
 
 ```
 clear, clc
@@ -61,7 +61,7 @@ biseccion(f,17.1,17.25,tol)
 <div class="alert alert-info">
   <strong> Raíces de la función en el intervalo seleccionado</strong>
 </div>
-
+<br>
 4.4934094
 
 7.7252518
