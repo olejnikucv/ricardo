@@ -11,8 +11,6 @@ Hola bienvenido a mi página en GitHub
 
 [![Custom badge](https://img.shields.io/badge/Estilos-Markdown-blue)](https://github.com/olejnikucv/ricardo/blob/master/Estilos%20para%20Markdown.md)
 
-<button type="button" class="btn">Basic</button>
-
 
 
 
