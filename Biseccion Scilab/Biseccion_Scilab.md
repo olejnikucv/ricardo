@@ -16,7 +16,7 @@ Hallar las raíces de la siguiente función en el intervalo [4,20]
 </div>
 <br>
 
-```
+```scilab
 clear, clc
 // ---------------- Método de Bisección utilizando Scilab ---------------------
 // ----------  Creación de la función -----------------------------------------
