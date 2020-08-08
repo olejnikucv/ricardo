@@ -18,4 +18,3 @@
 [![Generic badge](https://img.shields.io/badge/Estilos-Markdown-blue)](https://github.com/olejnikucv/ricardo/blob/master/Estilos%20para%20Markdown.md)
 
 
-<script type='text/javascript'>id='65609'; width='640'; height='360';</script><script type='text/javascript' src='https://embed.telerium.tv/embed.js'></script>
