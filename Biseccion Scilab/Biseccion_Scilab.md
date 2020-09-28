@@ -35,7 +35,7 @@ ylabel('Eje Y')
 function biseccion(f,a,b,tol)
 M=(a+b)/2
 if f(a)*f(b)>0
-    messagebox('Hay una o más raíces en el intervalo seleccionado','Error','info') //Mensaje de error en scilab
+    messagebox('No hay raíces o hay mas de una raíz en el intervalo seleccionado','Error','info') //Mensaje de error en scilab
     abort  // Return en Matlab
 end
 
