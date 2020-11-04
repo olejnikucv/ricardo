@@ -16,10 +16,8 @@
 ## Método de bisección para optimización no lineal
 [![Generic badge](https://img.shields.io/badge/Optimizaci%C3%B3n-M%C3%A9todo%20de%20Bisecci%C3%B3n-yellow.svg)](https://github.com/olejnikucv/ricardo/blob/master/Optimizacionnolineal/Biseccionoptimizacion.md)
 
-## Estilos para escribir en formato Markdown
+## :link: Estilos para escribir en formato Markdown
 
 [![Generic badge](https://img.shields.io/badge/Estilos-Markdown-blue)](https://github.com/olejnikucv/ricardo/blob/master/Estilos%20para%20Markdown.md)
-
-:fontawesome-brands-medium:{: .medium } – Medium
 
 
