@@ -1,7 +1,7 @@
 # Hola bienvenido a mi página en GitHub
 # Ricardo Olejnik
 
-## :floppy_disk: Guía Límites Calculo diferencial
+## :blue_book: Guía Límites Calculo diferencial
 
 [![Generic badge](https://img.shields.io/badge/Guia:Límites_Ricardo_Olejnik-Disponible-green.svg)](https://github.com/olejnikucv/ricardo/blob/master/limites_Ricardo.pdf)
 
@@ -19,5 +19,7 @@
 ## Estilos para escribir en formato Markdown
 
 [![Generic badge](https://img.shields.io/badge/Estilos-Markdown-blue)](https://github.com/olejnikucv/ricardo/blob/master/Estilos%20para%20Markdown.md)
+
+:fontawesome-brands-medium:{: .medium } – Medium
 
 
