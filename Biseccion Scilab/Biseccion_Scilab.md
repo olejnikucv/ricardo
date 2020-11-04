@@ -16,6 +16,7 @@ Hallar las raíces de la siguiente función en el intervalo [4,20]
 </div>
 <br>
 
+:computer:
 ```scilab
 clear, clc
 // ---------------- Método de Bisección utilizando Scilab ---------------------
@@ -60,6 +61,8 @@ biseccion(f,14,14.1,tol)
 biseccion(f,17.1,17.25,tol)
 //plot(M,f(M),'Or')
 ```
+
+:tv:
 <br>
 <div class="alert alert-info">
   <strong> Raíces de la función en el intervalo seleccionado</strong>
