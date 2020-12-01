@@ -52,3 +52,7 @@ ylabel('y')
 show()
 # -----------------------------------------------------------------------------
 ```
+
+## Representación Gráfica
+
+![](https://github.com/olejnikucv/ricardo/blob/master/MetododeBiseccionPython/Figure_1.png)
