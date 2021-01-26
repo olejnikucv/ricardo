@@ -1,10 +1,6 @@
 # Hola bienvenido a mi página en GitHub
 # Ricardo Olejnik
 
-## :blue_book: Guía Límites Calculo diferencial
-
-[![Generic badge](https://img.shields.io/badge/Guia:Límites_Ricardo_Olejnik-Disponible-green.svg)](https://github.com/olejnikucv/ricardo/blob/master/limites_Ricardo.pdf)
-
 ## :computer: Método de Bisección utilizando Python
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://github.com/olejnikucv/ricardo/blob/master/MetododeBiseccionPython/BiseccionPython.md)
