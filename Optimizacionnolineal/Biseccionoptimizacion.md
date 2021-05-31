@@ -1,5 +1,5 @@
 # Optimización no lineal
-## Método de Bisección utilizando Scilab utilizando la aproximación de la primera derivada con definición por límite
+## Método de Bisección utilizando Scilab y haciendo aproximación de la primera derivada con definición por límite
 Calcular el máximo o mínimo de la siguiente función e el intervalo (-5,5)
 <p align="center"><img align="center" src="https://i.upmath.me/svg/%20y%3Dx%5E2-x%2B3%20" alt=" y=x^2-x+3 " /></p>
 
