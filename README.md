@@ -1,27 +1,101 @@
-# Hola bienvenido a mi página en GitHub
-# Ricardo Olejnik
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:1e3a8a&height=180&section=header&text=Prof.%20Ricardo%20Olejnik&fontSize=38&animation=fadeIn&fontAlignY=35" width="100%" />
 
-## :computer: Método de Bisección utilizando Python
+  <p align="center">
+    <b>Ingeniería Química</b> &nbsp;|&nbsp; 
+    <b>Optimización & Simulación de Procesos</b> &nbsp;|&nbsp; 
+    <b>EdTech & Python</b>
+  </p>
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://github.com/olejnikucv/ricardo/blob/master/MetododeBiseccionPython/BiseccionPython.md)
+  <p align="center">
+    <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:olejnik.ucv@gmail.com"><img src="https://img.shields.io/badge/Email-olejnik.ucv%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/olejnikucv"><img src="https://img.shields.io/badge/GitHub-olejnikucv-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  </p>
+</div>
 
-## :computer: Método de Bisección utilizando Scilab
+---
 
-[![Generic badge](https://img.shields.io/badge/Scilab-M%C3%A9todo%20de%20Bisecci%C3%B3n%20utilizando%20Scilab-red)](https://github.com/olejnikucv/ricardo/blob/master/Biseccion%20Scilab/Biseccion_Scilab.md)
+### 👨‍🏫 Sobre mí
 
-## :computer: Método de Newton Raphson usando Scilab aplicado
+Profesor universitario e investigador centrado en el desarrollo de herramientas computacionales, modelos numéricos de optimización y la modernización de la enseñanza en Ingeniería Química a través de la programación interactiva y el análisis de datos.
 
-[![Generic badge](https://img.shields.io/badge/Aplicaci%C3%B3n%2FIngenier%C3%ADa%20Qu%C3%ADmica%2F%20Scilab-M%C3%A9todo%20de%20Newton%20Raphson%20y%20fsolver-red)](https://github.com/olejnikucv/ricardo/blob/master/AplicacionNewtonRaph.md)
+---
 
-## :tv: Método de bisección para optimización no lineal
-[![Generic badge](https://img.shields.io/badge/Optimizaci%C3%B3n-M%C3%A9todo%20de%20Bisecci%C3%B3n-yellow.svg)](https://github.com/olejnikucv/ricardo/blob/master/Optimizacionnolineal/Biseccionoptimizacion.md)
+### 💻 Tech Stack & Herramientas
 
-## :link: Estilos para escribir en formato Markdown
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,matlab,latex,markdown,git,vscode,html,css,linux&theme=dark" />
+</div>
 
-[![Generic badge](https://img.shields.io/badge/Estilos-Markdown-blue)](https://github.com/olejnikucv/ricardo/blob/master/Estilos%20para%20Markdown.md)
+<br />
 
-```
-Creado por: Ricardo Olejnik    
-Correo: olejnik.ucv@gmail.com 
-2020
+<div align="center">
+  <!-- Ecosistema específico -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+</div>
 
+---
+
+### 🚀 Proyectos & Recursos Destacados
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Optimización y Métodos Numéricos</h4>
+      <p>Algoritmos avanzados para resolución de sistemas de ecuaciones no lineales y optimización de procesos químicos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+      </p>
+      <a href="https://github.com/olejnikucv">Ver repositorios →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Simuladores Web Interactivos</h4>
+      <p>Interfaces dinámicas desarrolladas en Streamlit para el análisis y control de variables en procesos industriales.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dashboard-4682B4?style=flat-square" />
+      </p>
+      <a href="https://github.com/olejnikucv">Ver proyectos →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📄 Edición Científica & Documentos</h4>
+      <p>Plantillas, guías académicas y componentes para maquetación profesional y publicaciones.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white" />
+        <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+      </p>
+      <a href="https://github.com/olejnikucv">Explorar plantillas →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ Herramientas Docentes</h4>
+      <p>Recursos y configuraciones aplicadas a evaluaciones, automatización y docencia en ingeniería.</p>
+      <p>
+        <img src="https://img.shields.io/badge/EduTech-00BFFF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <a href="https://github.com/olejnikucv">Ver recursos →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Métricas de GitHub
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=olejnikucv&show_icons=true&theme=nightowl&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olejnikucv&layout=compact&theme=nightowl&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Prof. Ricardo Olejnik • Universidad Central de Venezuela</sub>
+</div>
