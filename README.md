@@ -25,7 +25,7 @@ Profesor universitario e investigador centrado en el desarrollo de herramientas 
 ### 💻 Tech Stack & Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,latex,markdown,git,vscode,html,css,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,latex,markdown,vscode,html,linux,windows&theme=dark" />
 </div>
 
 <br />
