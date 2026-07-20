@@ -87,15 +87,6 @@ Profesor universitario e investigador centrado en el desarrollo de herramientas 
 
 ---
 
-### 📈 Métricas de GitHub
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=olejnikucv&show_icons=true&theme=nightowl&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olejnikucv&layout=compact&theme=nightowl&hide_border=true" />
-</div>
-
----
-
 <div align="center">
   <sub>Prof. Ricardo Olejnik • Universidad Central de Venezuela</sub>
 </div>
